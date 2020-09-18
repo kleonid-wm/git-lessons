@@ -9,8 +9,13 @@ function testUI_EMAIL($mail){
     if(isset($mail) && $mail != '') return $mail; else return false;
 }
 
-function i()
+function t()
 {
     return true;
+}
+
+function f()
+{
+    return false;
 }
 ?>
