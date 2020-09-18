@@ -18,4 +18,9 @@ function f()
 {
     return false;
 }
+
+function a()
+{
+    return "about ";
+}
 ?>
