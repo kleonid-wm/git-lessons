@@ -8,4 +8,9 @@ function testUI_NAME($name){
 function testUI_EMAIL($mail){
     if(isset($mail) && $mail != '') return $mail; else return false;
 }
+
+function i()
+{
+    return true;
+}
 ?>
